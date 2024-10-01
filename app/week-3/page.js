@@ -44,7 +44,6 @@ export default function Page() {
     age={dog3.age} 
     color={dog3.color}
     />
-    
   </main>
   )
 }
