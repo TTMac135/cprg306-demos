@@ -15,7 +15,11 @@ export default function Page() {
       <li>
         <Link href="./week-4/functions" className={linkStyles} >Week 4 - Functions</Link> <Link href="./week-4/simple-counter" className={linkStyles} >Simple Counter</Link> <Link href="./week-4/advanced-counter" className={linkStyles} >Advanced Counter</Link>
       </li>
-      <li><Link href="./week-5" className={linkStyles} >Week 5 - Managed Form</Link></li>
+      <li><Link href="./week-5" className={linkStyles} >Week 5 - Managed Forms</Link></li>
+      <li><Link href="./week-6" className={linkStyles} >Week 6 - ?</Link></li>
+      <li><Link href="./week-7" className={linkStyles} >Week 7 - Managing States</Link></li>
+      <li><Link href="./week-8" className={linkStyles} >Week 8 - Fetching Data</Link></li>
+      <li><Link href="./week-9" className={linkStyles} >Week 9 - Firebase Auth</Link></li>
     </ul>
   </main>
   );
