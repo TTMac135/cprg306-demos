@@ -20,6 +20,7 @@ export default function Page() {
       <li><Link href="./week-7" className={linkStyles} >Week 7 - Managing States</Link></li>
       <li><Link href="./week-8" className={linkStyles} >Week 8 - Fetching Data</Link></li>
       <li><Link href="./week-9" className={linkStyles} >Week 9 - Firebase Auth</Link></li>
+      <li><Link href="./week-10" className={linkStyles} >Week 10 - Cloud Firestore</Link></li>
     </ul>
   </main>
   );
